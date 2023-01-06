@@ -1,0 +1,37 @@
+# Moondrop_Variations_R
+See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
+
+### Parametric EQs
+Apply preamp of -3.7 dB when using parametric equalizer.
+
+|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|---------|-----------|------|-------------|
+|   1 | Peaking |        88 | 0.42 |        -1.6 |
+|   2 | Peaking |       198 | 0.76 |         4.6 |
+|   3 | Peaking |       241 | 2.97 |        -0.1 |
+|   4 | Peaking |       701 | 2.92 |         0.7 |
+|   5 | Peaking |      2502 | 2.57 |        -1.4 |
+|   6 | Peaking |      5817 | 5.86 |         2.1 |
+|   7 | Peaking |      5849 | 0.61 |        -5.4 |
+|   8 | Peaking |      6312 | 3.9  |         4.9 |
+|   9 | Peaking |      8104 | 5.35 |         3.1 |
+|  10 | Peaking |      9478 | 3.24 |         5.9 |
+
+### Fixed Band EQs
+When using fixed band (also called graphic) equalizer, apply preamp of **-3.8 dB** (if available) and set gains manually with these parameters.
+
+|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|---------|-----------|------|-------------|
+|   1 | Peaking |        31 | 1.41 |        -0.5 |
+|   2 | Peaking |        62 | 1.41 |        -1.2 |
+|   3 | Peaking |       125 | 1.41 |         1.4 |
+|   4 | Peaking |       250 | 1.41 |         3.4 |
+|   5 | Peaking |       500 | 1.41 |         0.5 |
+|   6 | Peaking |      1000 | 1.41 |         0.4 |
+|   7 | Peaking |      2000 | 1.41 |        -1.5 |
+|   8 | Peaking |      4000 | 1.41 |        -4.7 |
+|   9 | Peaking |      8000 | 1.41 |         2.6 |
+|  10 | Peaking |     16000 | 1.41 |        -1.8 |
+
+### Graphs
+![](./Moondrop_Variations_R.png)

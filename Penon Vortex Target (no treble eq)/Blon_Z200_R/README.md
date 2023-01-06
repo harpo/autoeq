@@ -1,0 +1,37 @@
+# Blon_Z200_R
+See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
+
+### Parametric EQs
+Apply preamp of -4.2 dB when using parametric equalizer.
+
+|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|---------|-----------|------|-------------|
+|   1 | Peaking |        21 | 3.34 |        -4.2 |
+|   2 | Peaking |        21 | 5.38 |         3.4 |
+|   3 | Peaking |        33 | 0.34 |        -5.2 |
+|   4 | Peaking |       120 | 1.99 |        -1   |
+|   5 | Peaking |       695 | 0.48 |         2.3 |
+|   6 | Peaking |      1108 | 2.75 |         1.6 |
+|   7 | Peaking |      1393 | 1.34 |        -2.1 |
+|   8 | Peaking |      2297 | 1.8  |        -4.6 |
+|   9 | Peaking |      4005 | 1.22 |         5.6 |
+|  10 | Peaking |      5851 | 3.09 |        -6.2 |
+
+### Fixed Band EQs
+When using fixed band (also called graphic) equalizer, apply preamp of **-3.0 dB** (if available) and set gains manually with these parameters.
+
+|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|---------|-----------|------|-------------|
+|   1 | Peaking |        31 | 1.41 |        -6.2 |
+|   2 | Peaking |        62 | 1.41 |        -3   |
+|   3 | Peaking |       125 | 1.41 |        -2.5 |
+|   4 | Peaking |       250 | 1.41 |         0.5 |
+|   5 | Peaking |       500 | 1.41 |         1.6 |
+|   6 | Peaking |      1000 | 1.41 |         2.2 |
+|   7 | Peaking |      2000 | 1.41 |        -4   |
+|   8 | Peaking |      4000 | 1.41 |         3.7 |
+|   9 | Peaking |      8000 | 1.41 |        -1.7 |
+|  10 | Peaking |     16000 | 1.41 |         0.6 |
+
+### Graphs
+![](./Blon_Z200_R.png)
