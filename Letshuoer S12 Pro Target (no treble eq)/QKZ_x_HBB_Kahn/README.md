@@ -1,0 +1,37 @@
+# QKZ x HBB Kahn
+See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
+
+### Parametric EQs
+Apply preamp of -3.4 dB when using parametric equalizer.
+
+|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|---------|-----------|------|-------------|
+|   1 | Peaking |        52 | 2.57 |        -1.7 |
+|   2 | Peaking |        88 | 1.82 |        -1.8 |
+|   3 | Peaking |       174 | 1.48 |         1   |
+|   4 | Peaking |       197 | 1.6  |         2.8 |
+|   5 | Peaking |       446 | 1.32 |        -1.3 |
+|   6 | Peaking |       959 | 1.69 |        -1.5 |
+|   7 | Peaking |      2291 | 1.66 |         4.1 |
+|   8 | Peaking |      2788 | 4.38 |        -2.5 |
+|   9 | Peaking |      3786 | 1.55 |        -6   |
+|  10 | Peaking |      5901 | 2.55 |         3.8 |
+
+### Fixed Band EQs
+When using fixed band (also called graphic) equalizer, apply preamp of **-2.3 dB** (if available) and set gains manually with these parameters.
+
+|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|---------|-----------|------|-------------|
+|   1 | Peaking |        31 | 1.41 |         0.8 |
+|   2 | Peaking |        62 | 1.41 |        -3   |
+|   3 | Peaking |       125 | 1.41 |         1.2 |
+|   4 | Peaking |       250 | 1.41 |         2.4 |
+|   5 | Peaking |       500 | 1.41 |        -1.7 |
+|   6 | Peaking |      1000 | 1.41 |        -1.5 |
+|   7 | Peaking |      2000 | 1.41 |         2.7 |
+|   8 | Peaking |      4000 | 1.41 |        -4.7 |
+|   9 | Peaking |      8000 | 1.41 |         2   |
+|  10 | Peaking |     16000 | 1.41 |        -0.3 |
+
+### Graphs
+![](./QKZ%20x%20HBB%20Kahn.png)

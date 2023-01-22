@@ -1,0 +1,37 @@
+# Tripowin_Lea_L
+See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
+
+### Parametric EQs
+Apply preamp of -6.7 dB when using parametric equalizer.
+
+|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|---------|-----------|------|-------------|
+|   1 | Peaking |       214 | 1.22 |         1.2 |
+|   2 | Peaking |       390 | 1.29 |         1.5 |
+|   3 | Peaking |       672 | 1.58 |         1.8 |
+|   4 | Peaking |      2210 | 2.35 |        -1.2 |
+|   5 | Peaking |      4210 | 3.08 |        -3.2 |
+|   6 | Peaking |      4434 | 0.19 |        -4.5 |
+|   7 | Peaking |      6039 | 0.3  |        -6.8 |
+|   8 | Peaking |      9745 | 0.18 |        13.1 |
+|   9 | Peaking |      9766 | 5.95 |         1.1 |
+|  10 | Peaking |     10000 | 5.95 |        -2   |
+
+### Fixed Band EQs
+When using fixed band (also called graphic) equalizer, apply preamp of **-11.8 dB** (if available) and set gains manually with these parameters.
+
+|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|---------|-----------|------|-------------|
+|   1 | Peaking |        31 | 1.41 |        -0.6 |
+|   2 | Peaking |        62 | 1.41 |        -0.5 |
+|   3 | Peaking |       125 | 1.41 |         0.5 |
+|   4 | Peaking |       250 | 1.41 |         1.3 |
+|   5 | Peaking |       500 | 1.41 |         1.8 |
+|   6 | Peaking |      1000 | 1.41 |        -0.5 |
+|   7 | Peaking |      2000 | 1.41 |        -2   |
+|   8 | Peaking |      4000 | 1.41 |        -2.7 |
+|   9 | Peaking |      8000 | 1.41 |         2   |
+|  10 | Peaking |     16000 | 1.41 |        11.7 |
+
+### Graphs
+![](./Tripowin_Lea_L.png)
