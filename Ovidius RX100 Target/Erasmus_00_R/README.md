@@ -1,0 +1,37 @@
+# Erasmus_00_R
+See [usage instructions](https://github.com/jaakkopasanen/AutoEq#usage) for more options and info.
+
+### Parametric EQs
+Apply preamp of -5.4 dB when using parametric equalizer.
+
+|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|---------|-----------|------|-------------|
+|   1 | Peaking |        64 | 4.99 |        -0.3 |
+|   2 | Peaking |        77 | 1.05 |         1.2 |
+|   3 | Peaking |       377 | 2.17 |        -0.8 |
+|   4 | Peaking |      1037 | 0.65 |        -1.6 |
+|   5 | Peaking |      1397 | 3.54 |         0.9 |
+|   6 | Peaking |      2364 | 2.99 |         1.8 |
+|   7 | Peaking |      4004 | 3.45 |         5.5 |
+|   8 | Peaking |      5530 | 5.96 |        -1.8 |
+|   9 | Peaking |      7822 | 4.78 |        -2.5 |
+|  10 | Peaking |      8404 | 5.54 |        -1.2 |
+
+### Fixed Band EQs
+When using fixed band (also called graphic) equalizer, apply preamp of **-9.4 dB** (if available) and set gains manually with these parameters.
+
+|   # | Type    |   Fc (Hz) |    Q |   Gain (dB) |
+|-----|---------|-----------|------|-------------|
+|   1 | Peaking |        31 | 1.41 |        -0.3 |
+|   2 | Peaking |        62 | 1.41 |         0.9 |
+|   3 | Peaking |       125 | 1.41 |         0.7 |
+|   4 | Peaking |       250 | 1.41 |        -0.5 |
+|   5 | Peaking |       500 | 1.41 |        -0.9 |
+|   6 | Peaking |      1000 | 1.41 |        -1.5 |
+|   7 | Peaking |      2000 | 1.41 |         0   |
+|   8 | Peaking |      4000 | 1.41 |         4.1 |
+|   9 | Peaking |      8000 | 1.41 |        -4.2 |
+|  10 | Peaking |     16000 | 1.41 |         9.5 |
+
+### Graphs
+![](./Erasmus_00_R.png)
